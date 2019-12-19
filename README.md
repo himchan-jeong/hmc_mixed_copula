@@ -1,4 +1,4 @@
-# Codes for `Fully and empirical Bayes approaches to estimating copula-based models for bivariate mixed outcomes using Hamiltonian Monte Carlo' paper
+# Codes for `Fully and empirical Bayes approaches to estimating copula-based models for bivariate mixed outcomes using Hamiltonian Monte Carlo'
 
 Note that supplementary codes are sourced to run the main codes.
 
