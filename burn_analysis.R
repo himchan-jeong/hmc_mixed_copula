@@ -11,8 +11,8 @@ library(bayesplot)
 library(VineCopula)
 library(gridExtra)
 
-source('simulate_data.R') # source code for simulation of x and y
-source('corrmat.R') # incorporating possible correlation in x
+source('simulate_data.R') # source code for simulation of the covariates and bivariate response
+source('corrmat.R') # incorporating possible correlation in the covariates
 source('decodeCombo.R') # Decode combination code to get simulation settings
 source('copulalinks.R') # Different transform of copula parameter for each copula family
 
